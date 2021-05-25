@@ -1,0 +1,12 @@
+body 
+{background-color: black; 
+      color: white;
+      background-image: url(IMG/achtergrond.jpg);
+    background-repeat: no-repeat; 
+    background-size: 100%;}
+a {color: teal;}
+p.border_rond {
+    border: 2px solid red;
+    border-radius: 8px;
+    text-align: center;
+    }
